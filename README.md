@@ -10,10 +10,7 @@
 
 - ❓ I help with learning web3 technologies and testing for beginners  
   
-
 <br/>  
-
-## 
 
 <table><tr><td valign="top" width="50%">
 
